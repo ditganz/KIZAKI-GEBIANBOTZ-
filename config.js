@@ -10,33 +10,33 @@ global.autoReadAll = true
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6288902229533']
-global.pengguna = '𝐙𝐘𝐍𝐗'
+global.owner = ['6281387292249']
+global.pengguna = '𝐃𝐢𝐭𝐭𝐆𝐚𝐧𝐳.7'
 global.premium = []
-global.author = '𝐙𝐘𝐍𝐗'
-global.pemilik = ['6288902229533'] 
-global.ownernomer = '6288902229533'
-global.ownername = '𝐙𝐘𝐍𝐗'
-global.botname = '𝐙𝐗 - 𝐁𝐎𝐓'
+global.author = '𝐃𝐢𝐭𝐭𝐆𝐚𝐧𝐳.7'
+global.pemilik = ['6281387292249'] 
+global.ownernomer = '6281387292249'
+global.ownername = '𝐃𝐢𝐭𝐭𝐆𝐚𝐧𝐳.7'
+global.botname = '𝐆𝐞𝐛𝐢𝐚𝐧𝐁𝐨𝐭𝐳 >.<'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
-global.meki = '6288902229533'
-global.footer = '𝐙𝐗 - 𝐁𝐎𝐓'
+global.meki = '6281387292249'
+global.footer = '𝐆𝐞𝐛𝐢𝐚𝐧𝐁𝐨𝐭𝐳 >.<'
 //Isi Sesuai Namalu Buat Tambah Tqtq
-global.namalu = '𝐙𝐘𝐍𝐗' //Ubah nama kalian buat nambahin di tqtq bot
-global.footer1 = 'Jangan Spam Bot.'
+global.namalu = '𝐃𝐢𝐭𝐭𝐆𝐚𝐧𝐳.7' //Ubah nama kalian buat nambahin di tqtq bot
+global.footer1 = 'Jangan Spam Bot!'
 global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
-global.yt = 'https://youtu.be/xvFZjo5PgG0' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
-global.ig = 'https://instagram.com/zyvnxx__'
-global.gc = 'https://chat.whatsapp.com/Hypz6V5T0rq60HS7ZnW0KN' //join ya
-global.dana = 'SEND KE QRIS : https://ibb.co/VvcDns2'
-global.gopay = 'SEND KE QRIS : https://ibb.co/VvcDns2'
-global.wame = 'http://wa.me/6288902229533'
-global.email = 'helloiamzynxx@gmail.com'
+global.yt = 'https://youtu.be/c/DittBotzOfficial' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
+global.ig = 'https://instagram.com/ditt.storee'
+global.gc = 'https://chat.whatsapp.com/KlFmYB4Fr8j78S7edWoGBe' //join ya
+global.dana = 'SEND KE QRIS : https://ibb.co/9gzMpYQ'
+global.gopay = 'SEND KE QRIS : https://ibb.co/9gzMpYQ'
+global.wame = 'http://wa.me/6281387292249'
+global.email = 'helloiamditt.7@gmail.com'
 global.region = 'Indonesia'
-global.link = 'https://linktr.ee/zynxxstore'
+global.link = 'https://linktr.ee/dittstoree'
 global.sc = 'https://bit.ly'
-global.packname = '𝐙𝐘𝐍𝐗 // @𝐳𝐲𝐯𝐧𝐱𝐱__\n' 
+global.packname = '𝐃𝐢𝐭𝐭𝐆𝐚𝐧𝐳.7 // 𝐆𝐞𝐛𝐢𝐚𝐧𝐁𝐨𝐭𝐳 >.<\n' 
 global.author = '' 
 global.sessionName = 'session'
 global.prefa = ['#','!','/','']
@@ -414,7 +414,7 @@ global.ccomannya = `
  » tupai
 `
 global.sewanya =
-'  *» List Sewabot :*\n   _• Sewa Bot 1 Minggu : 2K_\n   _• Sewa Bot 1 Bulan : 5K_\n   _• Sewa Bot permanen : 10K_'
+'  *» List Sewabot :*\n   _• Sewa Bot 1 Minggu : 3K_\n   _• Sewa Bot 1 Bulan : 8K_\n   _• Sewa Bot permanen : 15K_'
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
