@@ -3921,7 +3921,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 break
 case 'command': case 'allmenu': case 'listmenu': {
 var butonnya =
-[{ urlButton: { displayText: 'Group Official', url: 'https://chat.whatsapp.com/Hypz6V5T0rq60HS7ZnW0KN'} }, 
+[{ urlButton: { displayText: 'Group Official', url: 'https://chat.whatsapp.com/KlFmYB4Fr8j78S7edWoGBe'} }, 
 { quickReplyButton: { displayText: 'Owner', id: 'owner', } }, 
 { quickReplyButton: { displayText: 'Sewa Bot', id: 'sewabot', } }]
 /*const templateMessage = {
