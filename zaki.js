@@ -3938,7 +3938,7 @@ zaki.sendMessage(m.chat, templateMessage)
 // MODEL MENU SEKARANG : LOC \\
 
 //━━━━━━━━━━━━━━━[ MENU LOC ]━━━━━━━━━━━━━━━\\
-const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({ templateMessage: { hydratedTemplate: { hydratedContentText: `${ccomannya}`, locationMessage: { jpegThumbnail: fs.readFileSync('./media/allmenu.jpg') }, hydratedFooterText: `${footer}`, hydratedButtons: [{ urlButton: { displayText: 'Group Official', url: 'https://chat.whatsapp.com/Hypz6V5T0rq60HS7ZnW0KN'} }] } } }), { userJid: m.sender, quoted: m }); //conn.reply(m.chat, text.trim(), m) 
+const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({ templateMessage: { hydratedTemplate: { hydratedContentText: `${ccomannya}`, locationMessage: { jpegThumbnail: fs.readFileSync('./media/allmenu.jpg') }, hydratedFooterText: `${footer}`, hydratedButtons: [{ urlButton: { displayText: 'Group Official', url: 'https://chat.whatsapp.com/KlFmYB4Fr8j78S7edWoGBe'} }] } } }), { userJid: m.sender, quoted: m }); //conn.reply(m.chat, text.trim(), m) 
   zaki.relayMessage( m.chat, template.message, { messageId: template.key.id } )
 
   
@@ -3952,12 +3952,12 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Instagram',
-                                    url: 'https://instagram.com/zyvnxx__'
+                                    url: 'https://instagram.com/ditt.storee'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Owner Number',
-                                    phoneNumber: '+62 889-0222-9533'
+                                    phoneNumber: '+62 813-8729-2249'
                                 }
                             }, {
                                 quickReplyButton: {
